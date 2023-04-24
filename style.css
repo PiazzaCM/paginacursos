@@ -1,19 +1,17 @@
 #hero {
 
-    background-image: linear-gradient(
-        0deg,
-        rgba(0,0,0,0.6),
-        rgba(0,0,0,0.6)
-        ),url(img/fondoindex2.jpg)!important;
-   background-size: cover;
+    background-image: linear-gradient(0deg,
+            rgba(0, 0, 0, 0.6),
+            rgba(0, 0, 0, 0.6)), url(img/fondoindex2.jpg) !important;
+    background-size: cover;
     color: white;
-    height: 80vh;
+    height: 84vh;
 
 }
 
 #titulohero {
 
-   margin-top: 200px;
+    margin-top: 200px;
 
 }
 
@@ -23,3 +21,8 @@
 
 }
 
+footer {
+
+    background-color: black;
+    
+}
